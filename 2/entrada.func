@@ -1,0 +1,5 @@
+numeros = [1, 2, 3, 4, 5];
+MAP(multiple, numeros);
+FILTER(es_par, numeros);
+MAP(cuadrado, numeros);
+FILTER(es_impar, numeros);
